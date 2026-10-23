@@ -29,13 +29,15 @@ Analisar duas coleções de dados (vendedores e seus respectivos faturamentos) e
 ## Como Executar o Projeto
 
 1. Clone o repositório para o seu computador:
-   git clone https://github.com/PauloWilliamdeFaria/NOME-DO-SEU-REPOSITORIO.git
+   git clone https://github.com/PauloWilliamdeFaria/exercicios-python
 
 2. Acesse a pasta do projeto:
-   cd NOME-DO-SEU-REPOSITORIO
+   cd exercicios-python/tupla/exercicios-python
+
+   
 
 3. Execute o arquivo Python:
-   python exercicio_vendas.py
+   python vendedor.py
 
 ## Exemplo de Saída no Terminal
 
